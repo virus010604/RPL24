@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Modul3\Modul3\bin\Debug\net8.0\Modul3.exe
+C:\Users\user\source\repos\Modul3\Modul3\bin\Debug\net8.0\Modul3.deps.json
+C:\Users\user\source\repos\Modul3\Modul3\bin\Debug\net8.0\Modul3.runtimeconfig.json
+C:\Users\user\source\repos\Modul3\Modul3\bin\Debug\net8.0\Modul3.dll
+C:\Users\user\source\repos\Modul3\Modul3\bin\Debug\net8.0\Modul3.pdb
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\Modul3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\Modul3.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\Modul3.AssemblyInfo.cs
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\Modul3.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\Modul3.dll
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\refint\Modul3.dll
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\Modul3.pdb
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\Modul3.genruntimeconfig.cache
+C:\Users\user\source\repos\Modul3\Modul3\obj\Debug\net8.0\ref\Modul3.dll
